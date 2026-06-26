@@ -1,5 +1,7 @@
 # Ngày 22 - Eval Decision Workbook
 
+> **Bài làm đã hoàn thành:** xem [`SUBMISSION.md`](./SUBMISSION.md) và thư mục [`answers/`](./answers/).
+
 ## Nộp bài
 
 Mỗi học viên nộp **1 repository riêng**.
